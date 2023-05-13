@@ -1,5 +1,5 @@
 var nam=new Array();
-nam[0]="ravi";
+nam[0]="Ronny";
 nam[1]="lat";
 nam[2]="John";
 nam[3 ]="jack";
